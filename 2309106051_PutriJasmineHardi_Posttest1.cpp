@@ -66,7 +66,7 @@ double konversi1(double angka) {
     cout << "Cm/detik = " << hasil1 << endl;
     cout << "m/detik = " << hasil2 << endl;
     cout << "mil/jam = " << hasil3 << endl;
-    return hasil1; // Mengembalikan nilai hasil1
+    return hasil1; 
 }
 
 double konversi2(double angka){
@@ -78,7 +78,7 @@ double konversi2(double angka){
     cout << "km/jam = " << hasil1 << endl;
     cout << "m/detik = " << hasil2 << endl;
     cout << "mil/jam = " << hasil3 << endl;
-    return hasil1; // Mengembalikan nilai hasil1
+    return hasil1; 
 }
 
 double konversi3(double angka){
@@ -90,7 +90,7 @@ double konversi3(double angka){
     cout << "km/jam = " << hasil1 << endl;
     cout << "m/detik = " << hasil2 << endl;
     cout << "mil/jam = " << hasil3 << endl;
-    return hasil1; // Mengembalikan nilai hasil1
+    return hasil1;
 }
 
 double konversi4(double angka){
@@ -102,7 +102,7 @@ double konversi4(double angka){
     cout << "km/jam = " << hasil1 << endl;
     cout << "cm/detik = " << hasil2 << endl;
     cout << "m/detik = " << hasil3 << endl;
-    return hasil1; // Mengembalikan nilai hasil1
+    return hasil1; 
 }
 
 int main() {
